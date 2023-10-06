@@ -3,3 +3,4 @@
 ## Part 1 - Object Detection or Segmentation with ZED2 video stream on Jetson Nano
 
 
+Had to look at ZED SDK 3.8 
