@@ -46,6 +46,8 @@ int main(int argc, char **argv) {
     const bool isJetson = false;
 #endif
 
+    
+
     // Create ZED objects
     Camera zed;
     InitParameters init_parameters;
